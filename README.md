@@ -24,13 +24,16 @@ O portfólio está dividido em quatro partes principais:
 
 ---
 
-<!-- [![O Que é um Sistema Operativo](https://img.shields.io/badge/Definição--Sistema%20Operativo-28A745?style=for-the-badge)](apontamentos/definicao_sistema_operativo.md)<br/> -->
+[![Integração de dados](https://img.shields.io/badge/integração%20de%20dados-28A745?style=for-the-badge)](apontamentos/integração%20de%20dados.md)<br/>
+[![Interoperabilidade](https://img.shields.io/badge/interoperabilidade-28A745?style=for-the-badge)](apontamentos/interoperabilidade.md)<br/>
+[![Classificação de dados](https://img.shields.io/badge/classificação%20de%20dados-28A745?style=for-the-badge)](apontamentos/classificacao%20de%20dados.md)<br/>
+[![arquiteturas de integração](https://img.shields.io/badge/arquiteturas%20de%20integração-28A745?style=for-the-badge)](apontamentos/classificacao%20de%20dados.md)<br/>
 
 ### Fichas
 
 ---
 
-<!-- [![Trabalho Prático 1](https://img.shields.io/badge/Trabalho%20Prático%201-orange?style=for-the-badge)](fichas/trabalho_pratico_1.pdf) <br> -->
+[![Tarefa 1](https://img.shields.io/badge/Tarefa%2001-orange?style=for-the-badge)](fichas/tarefa1.md) <br>
 
 ### Outros
 
