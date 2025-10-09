@@ -23,5 +23,4 @@ recolher e preparar dados, libertando os analistas e engenheiros de dados para s
 tarefas de maior valor, como a criação de modelos e a extração de insights.
 
 Contexto Histórico: Ao integrar dados históricos com informações atuais, o ETL
-permite a análise de tendências e padrões ao longo do tempo, algo essencial para previsões e
-planeamento estratégico.
+permite a análise de tendências e padrões ao longo do tempo, algo essencial para previsões e planeamento estratégico.
