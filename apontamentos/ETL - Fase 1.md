@@ -5,8 +5,8 @@ suas fontes de origem. As fontes de dados podem ser extremamente
 variadas e heterogéneas, incluindo:
 
 <ul>
-  <li>Bancos de dados relacionais (SQL Server, Oracle, MySQL).</li>
-  <li>Bancos de dados NoSQL (MongoDB, Cassandra).</li>
+  <li>Bases de dados relacionais (SQL Server, Oracle, MySQL).</li>
+  <li>Bases de dados NoSQL (MongoDB, Cassandra).</li>
   <li>Sistemas empresariais como ERPs e CRMs.</li>
   <li>Ficheiros planos (CSV, JSON, XML).</li>
   <li>APIs de servi os web.</li>

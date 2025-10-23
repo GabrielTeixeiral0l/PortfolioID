@@ -8,26 +8,26 @@ de destino.
 
 As operações de transformação mais comuns incluem:
 
-<li>**Limpeza (Cleansing)**: Corrigir ou remover dados incorretos,
-inconsistentes ou duplicados e tratar valores em falta (nulos).</li>
+- **Limpeza (Cleansing)**: Corrigir ou remover dados incorretos,
+  inconsistentes ou duplicados e tratar valores em falta (nulos).
 
-<li>**Padronização (Standardization)**: Assegurar que os dados
-seguem um formato uniforme. Por exemplo, converter todas
-as datas para o formato AAAA-MM-DD ou unidades de medida
-para um padrão comum.</li>
+- **Padronização (Standardization)**: Assegurar que os dados
+  seguem um formato uniforme. Por exemplo, converter todas
+  as datas para o formato AAAA-MM-DD ou unidades de medida
+  para um padrão comum.
 
-<li>**Agregação (Aggregation)**: Resumir dados para um nível de
-granularidade mais alto, como calcular o total de vendas
-diárias a partir de transações individuais.</li>
+- **Agregação (Aggregation)**: Resumir dados para um nível de
+  granularidade mais alto, como calcular o total de vendas
+  diárias a partir de transações individuais.
 
-<li>**Junção (Joining)**: Combinar dados de diferentes fontes. Por
-exemplo, juntar dados de clientes de um CRM com dados de
-vendas de um sistema transacional.</li>
+- **Junção (Joining)**: Combinar dados de diferentes fontes. Por
+  exemplo, juntar dados de clientes de um CRM com dados de
+  vendas de um sistema transacional.
 
-<li>**Validação (Validation)**: Aplicar regras para garantir a
-integridade e a qualidade dos dados (ex: verificar se um
-código postal tem o formato correto).</li>
+- **Validação (Validation)**: Aplicar regras para garantir a
+  integridade e a qualidade dos dados (ex: verificar se um
+  código postal tem o formato correto).
 
-<li>**Enriquecimento (Enrichment)**: Adicionar novos dados
-calculados ou derivados dos dados existentes, como calcular a
-idade de um cliente a partir da sua data de nascimento.</li>
+- **Enriquecimento (Enrichment)**: Adicionar novos dados
+  calculados ou derivados dos dados existentes, como calcular a
+  idade de um cliente a partir da sua data de nascimento.
