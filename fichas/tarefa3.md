@@ -1,3 +1,6 @@
+# Tarefa 3 - Processamento de Dados &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
+
+```python
 import pandas as pd
 
 # leitura dos ficheiros
@@ -48,3 +51,4 @@ total_vendas_validas = vendas_validas["valor"].count()
 print(f"Total de vendas válidas: {total_vendas_validas}")
 
 vendas_validas.to_csv("vendas_validas.csv", index=False)
+```

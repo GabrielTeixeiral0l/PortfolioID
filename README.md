@@ -29,35 +29,42 @@ O portfólio está dividido em quatro partes principais:
 [![Aula 7 - 21-10-2025](https://img.shields.io/badge/Aula%207-21--10--2025-blue?style=for-the-badge)](aulas/21-10-2025.md) <br/>
 [![Aula 8 - 28-10-2025](https://img.shields.io/badge/Aula%208-28--10--2025-blue?style=for-the-badge)](aulas/28-10-2025.md) <br/>
 
+#### Novembro 2025
+
+[![Aula 9 - 04-11-2025](https://img.shields.io/badge/Aula%209-04--11--2025-blue?style=for-the-badge)](aulas/04-11-2025.md) <br/>
+[![Aula 10 - 12-11-2025](https://img.shields.io/badge/Aula%2010-12--11--2025-blue?style=for-the-badge)](aulas/12-11-2025.md) <br/>
+
 ### Apontamentos
 
 ---
 
-[![Integração de dados](https://img.shields.io/badge/integração%20de%20dados-28A745?style=for-the-badge)](apontamentos/integração%20de%20dados.md)<br/>
+[![Integração de dados](https://img.shields.io/badge/integração%20de%20dados-28A745?style=for-the-badge)](apontamentos/integracao-de-dados.md)<br/>
 [![Interoperabilidade](https://img.shields.io/badge/interoperabilidade-28A745?style=for-the-badge)](apontamentos/interoperabilidade.md)<br/>
-[![Classificação de dados](https://img.shields.io/badge/classificação%20de%20dados-28A745?style=for-the-badge)](apontamentos/classificacao%20de%20dados.md)<br/>
-[![arquiteturas de integração](https://img.shields.io/badge/arquiteturas%20de%20integração-28A745?style=for-the-badge)](apontamentos/classificacao%20de%20dados.md)<br/>
+[![Classificação de dados](https://img.shields.io/badge/classificação%20de%20dados-28A745?style=for-the-badge)](apontamentos/classificacao-de-dados.md)<br/>
+[![arquiteturas de integração](https://img.shields.io/badge/arquiteturas%20de%20integração-28A745?style=for-the-badge)](apontamentos/arquiteturas-de-integracao.md)<br/>
 
-[![ETL](https://img.shields.io/badge/ETL-28A745?style=for-the-badge)](apontamentos/ETL.md)<br/>
+[![ETL](https://img.shields.io/badge/ETL-28A745?style=for-the-badge)](apontamentos/ETL.md)<br/><br/>
 
 - [![ETL - Fase 1](https://img.shields.io/badge/Fase%201-28A745?style=for-the-badge)](apontamentos/ETL%20-%20Fase%201.md)<br/>
 - [![ETL - Fase 2](https://img.shields.io/badge/Fase%202-28A745?style=for-the-badge)](apontamentos/ETL%20-%20Fase%202.md)<br/>
 - [![ETL - Fase 3](https://img.shields.io/badge/Fase%203-28A745?style=for-the-badge)](apontamentos/ETL%20-%20Fase%203.md)<br/>
 
-[![ELT](https://img.shields.io/badge/ELT-28A745?style=for-the-badge)](apontamentos/ELT.md)<br/>
-[![Ferramentas e tecnologias de ETL](https://img.shields.io/badge/Ferramentas%20e%20tecnologias%20de%20ETL-28A745?style=for-the-badge)](apontamentos/ferramentas%20e%20tecnologias%20de%20ETL.md)<br/>
-[![Qualidade e consistência de dados](https://img.shields.io/badge/Qualidade%20e%20consistência%20de%20dados-28A745?style=for-the-badge)](apontamentos/Qualidade%20e%20consistencia%20de%20dados.md)<br/>
-[![Técnicas de validação de dados](https://img.shields.io/badge/Técnicas%20de%20validação%20de%20dados-28A745?style=for-the-badge)](apontamentos/tecnicas%20de%20validacao%20de%20dados.md)<br/>
+[![ELT](https://img.shields.io/badge/ELT-28A745?style=for-the-badge)](apontamentos/ELT.md)<br/><br/>
+[![Ferramentas e tecnologias de ETL](https://img.shields.io/badge/Ferramentas%20e%20tecnologias%20de%20ETL-28A745?style=for-the-badge)](apontamentos/ferramentas-e-tecnologias-de-etl.md)<br/>
+[![Qualidade e consistência de dados](https://img.shields.io/badge/Qualidade%20e%20consistência%20de%20dados-28A745?style=for-the-badge)](apontamentos/qualidade-e-consistencia-de-dados.md)<br/>
+[![Técnicas de validação de dados](https://img.shields.io/badge/Técnicas%20de%20validação%20de%20dados-28A745?style=for-the-badge)](apontamentos/tecnicas-de-validacao-de-dados.md)<br/>
 
 ### Fichas
 
 ---
 
 [![Tarefa 1](https://img.shields.io/badge/Tarefa%201-orange?style=for-the-badge)](fichas/tarefa1.md) <br>
-[![Tarefa 2](https://img.shields.io/badge/Tarefa%202-orange?style=for-the-badge)](fichas/tarefa2/) <br>
-[![Tarefa 3](https://img.shields.io/badge/Tarefa%203-orange?style=for-the-badge)](fichas/tarefa3/) <br>
+[![Tarefa 2](https://img.shields.io/badge/Tarefa%202-orange?style=for-the-badge)](fichas/tarefa2.md) <br>
+[![Tarefa 3](https://img.shields.io/badge/Tarefa%203-orange?style=for-the-badge)](fichas/tarefa3.md) <br>
 [![Tarefa 4](https://img.shields.io/badge/Tarefa%204-orange?style=for-the-badge)](fichas/tarefa4.md) <br>
 [![Tarefa 5](https://img.shields.io/badge/Tarefa%205-orange?style=for-the-badge)](fichas/tarefa5.md) <br>
+[![Tarefa 6](https://img.shields.io/badge/Tarefa%206-orange?style=for-the-badge)](fichas/tarefa6.md) <br>
+[![Tarefa 7](https://img.shields.io/badge/Tarefa%207-orange?style=for-the-badge)](fichas/tarefa7.md) <br>
 
 ### Outros
 
@@ -65,8 +72,8 @@ O portfólio está dividido em quatro partes principais:
 
 ##### Ferramentas
 
-<!-- [![VirtualBox - Máquinas Virtuais](https://img.shields.io/badge/VirtualBox%20-%20Máquinas%20Virtuais-purple?style=for-the-badge)](https://www.virtualbox.org/) -->
+
 
 ##### Videos
 
-## <!-- [![Correção de erro VirtualBox - "Missing Dependencies"](https://img.shields.io/badge/youtube-Correção%20de%20erro%20VirtualBox:%20"Missing%20Dependencies"-FF0000?style=for-the-badge)](https://www.youtube.com/watch?v=IvPdhh70OGM) -->
+
