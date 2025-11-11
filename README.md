@@ -32,7 +32,8 @@ O portfólio está dividido em quatro partes principais:
 #### Novembro 2025
 
 [![Aula 9 - 04-11-2025](https://img.shields.io/badge/Aula%209-04--11--2025-blue?style=for-the-badge)](aulas/04-11-2025.md) <br/>
-[![Aula 10 - 12-11-2025](https://img.shields.io/badge/Aula%2010-12--11--2025-blue?style=for-the-badge)](aulas/12-11-2025.md) <br/>
+[![Aula 10 - 11-11-2025](https://img.shields.io/badge/Aula%2010-11--11--2025-blue?style=for-the-badge)](aulas/11-11-2025.md) <br/>
+[![Aula 11 - 18-11-2025](https://img.shields.io/badge/Aula%2011-18--11--2025-blue?style=for-the-badge)](aulas/18-11-2025.md) <br/>
 
 ### Apontamentos
 
@@ -53,6 +54,11 @@ O portfólio está dividido em quatro partes principais:
 [![Ferramentas e tecnologias de ETL](https://img.shields.io/badge/Ferramentas%20e%20tecnologias%20de%20ETL-28A745?style=for-the-badge)](apontamentos/ferramentas-e-tecnologias-de-etl.md)<br/>
 [![Qualidade e consistência de dados](https://img.shields.io/badge/Qualidade%20e%20consistência%20de%20dados-28A745?style=for-the-badge)](apontamentos/qualidade-e-consistencia-de-dados.md)<br/>
 [![Técnicas de validação de dados](https://img.shields.io/badge/Técnicas%20de%20validação%20de%20dados-28A745?style=for-the-badge)](apontamentos/tecnicas-de-validacao-de-dados.md)<br/>
+[![Integração em Tempo Real](https://img.shields.io/badge/Integração%20em%20Tempo%20Real-28A745?style=for-the-badge)](apontamentos/integracao-em-tempo-real.md)<br/>
+[![Arquiteturas Lambda e Kappa](https://img.shields.io/badge/Arquiteturas%20Lambda%20e%20Kappa-28A745?style=for-the-badge)](apontamentos/arquiteturas-lambda-kappa.md)<br/>
+[![Big Data](https://img.shields.io/badge/Big%20Data-28A745?style=for-the-badge)](apontamentos/big-data.md)<br/>
+[![Data Governance e Qualidade de Dados](https://img.shields.io/badge/Data%20Governance%20e%20Qualidade%20de%20Dados-28A745?style=for-the-badge)](apontamentos/data-governance.md)<br/>
+[![Master Data Management (MDM)](https://img.shields.io/badge/Master%20Data%20Management%20(MDM)-28A745?style=for-the-badge)](apontamentos/mdm.md)<br/>
 
 ### Fichas
 
