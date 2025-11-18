@@ -72,6 +72,12 @@ O portfólio está dividido em quatro partes principais:
 [![Tarefa 6](https://img.shields.io/badge/Tarefa%206-orange?style=for-the-badge)](fichas/tarefa6.md) <br>
 [![Tarefa 7](https://img.shields.io/badge/Tarefa%207-orange?style=for-the-badge)](fichas/tarefa7.md) <br>
 
+### Projeto Final
+
+---
+
+[![Projeto Final](https://img.shields.io/badge/Projeto%20Final-purple?style=for-the-badge)](projeto_final.md) <br>
+
 ### Outros
 
 ---
