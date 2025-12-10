@@ -28,6 +28,6 @@ Este documento serve como guia e registo para o desenvolvimento do projeto final
 
 ## Fase 5 – Integração em Contextos Avançados
 
-- [ ] **13. Design de Streaming**: Detalhar o pipeline de integração para o fluxo de transações.
-- [ ] **14. Integração de Variedade**: Descrever o processo de parsing e normalização para dados em XML.
-- [ ] **15. Governança de Dados**: Definir os papéis de Data Owner/Steward e uma política de governança.
+- [x] **13. Design de Streaming**: Detalhar o pipeline de integração para o fluxo de transações.
+- [x] **14. Integração de Variedade**: Descrever o processo de parsing e normalização para dados em XML.
+- [x] **15. Governança de Dados**: Definir os papéis de Data Owner/Steward e uma política de governança.
